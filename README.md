@@ -76,7 +76,7 @@ El sitio fue construido inicialmente con **HTML, CSS, JavaScript y PHP**, y post
 > *"Premium printing that makes your brand look sharp — fast, local, and reliable."*
 > Landing con headline directo, badges de propuesta de valor y CTAs principales.
 
-![Hero](docs/myspeedyprinting_com1.png)
+![Hero](docs/myspeedyprinting.com1.png)
 
 </details>
 
@@ -88,7 +88,7 @@ El sitio fue construido inicialmente con **HTML, CSS, JavaScript y PHP**, y post
 
 > Grilla de 9 servicios de impresión: tarjetas de presentación, flyers, banners, stickers, invitaciones, vehicle wraps, mailing directo, acabados premium y soporte de diseño.
 
-![Servicios](docs/myspeedyprinting_com2.png)
+![Servicios](docs/myspeedyprinting.com2.png)
 
 </details>
 
@@ -100,7 +100,7 @@ El sitio fue construido inicialmente con **HTML, CSS, JavaScript y PHP**, y post
 
 > Proceso en 3 pasos: **01** Comparte tu necesidad → **02** Recomendamos & confirmamos → **03** Imprimimos y entregamos.
 
-![How it works](docs/myspeedyprinting_com3.png)
+![How it works](docs/myspeedyprinting.com3.png)
 
 </details>
 
@@ -112,7 +112,7 @@ El sitio fue construido inicialmente con **HTML, CSS, JavaScript y PHP**, y post
 
 > Control de calidad consistente, entrega rápida, soporte en selección de materiales, accountability local y más.
 
-![Why clients come back](docs/myspeedyprinting_com4.png)
+![Why clients come back](docs/myspeedyprinting.com4.png)
 
 </details>
 
@@ -124,7 +124,7 @@ El sitio fue construido inicialmente con **HTML, CSS, JavaScript y PHP**, y post
 
 > Reseñas reales de clientes: restaurantes, empresas y eventos. Con nombre, empresa y tipo de impresión.
 
-![Testimonios](docs/myspeedyprinting_com5.png)
+![Testimonios](docs/myspeedyprinting.com5.png)
 
 </details>
 
@@ -136,7 +136,7 @@ El sitio fue construido inicialmente con **HTML, CSS, JavaScript y PHP**, y post
 
 > Acordeón interactivo con respuestas a las preguntas más comunes sobre tiempos de entrega, pedidos mínimos, diseño y acabados custom.
 
-![FAQ](docs/myspeedyprinting_com6.png)
+![FAQ](docs/myspeedyprinting.com6.png)
 
 </details>
 
@@ -148,7 +148,7 @@ El sitio fue construido inicialmente con **HTML, CSS, JavaScript y PHP**, y post
 
 > Formulario completo con: nombre, email, teléfono, empresa, tipo de producto, cantidad, deadline y mensaje. Validación en tiempo real.
 
-![Formulario](docs/myspeedyprinting_com7.png)
+![Formulario](docs/myspeedyprinting.com7.png)
 
 </details>
 
@@ -246,7 +246,7 @@ wp-content/themes/myspeedyprinting/
 
 ### Gabriel Torrealba
 
-**Desarrollador Web Semi Junior**
+**Desarrollador Web Junior**
 *Ingeniería de Sistemas*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Agabo32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agabo32)
